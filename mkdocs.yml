@@ -6,9 +6,9 @@ theme:
 nav:
   - 📄 首页 / 概述: index.md
   - 🔄 新旧版风格对比:
-      - 1. 顶部 Ofqual 监管标: index.md#1-顶部新增英国-ofqual-官方监管徽标最显著变化
-      - 2. 物理防伪工艺继承: index.md#2-物理防伪工艺外表颜色对光水印与以往别无二致
-      - 3. 右下角红色核验章: index.md#3-右下角官方红色核验章validation-stamp的区域定制
-      - 4. eTRF 电子版风格: index.md#4-数字化电子成绩单etrf的去物化风格
-  - 📊 结构图表深度解析: index.md#2026年新版雅思成绩单样本图表内容深度解析
-  - 🛡️ 官方防伪与核验建议: index.md#2026年最新雅思成绩单真伪核验与使用建议
+      - 1. 顶部 Ofqual 监管标: index.md#part1
+      - 2. 物理防伪工艺继承: index.md#part2
+      - 3. 右下角红色核验章: index.md#part3
+      - 4. eTRF 电子版风格: index.md#part4
+  - 📊 结构图表深度解析: index.md#analysis
+  - 🛡️ 官方防伪与核验建议: index.md#advise
